@@ -1,0 +1,36 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\BO\obj\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\BO.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\DAL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\DAL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\obj\Debug\BO.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\BO\obj\Debug\BO.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\BO.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\BO.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\DAL.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\ENTITY.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\DAL.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\bin\Debug\ENTITY.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\obj\Debug\BO.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\BO\obj\Debug\BO.pdb

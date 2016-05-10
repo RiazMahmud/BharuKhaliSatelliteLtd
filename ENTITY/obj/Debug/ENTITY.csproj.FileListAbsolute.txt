@@ -1,0 +1,18 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\obj\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem\ENTITY\obj\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\ENTITY\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\ENTITY\obj\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BankAccountSystem - v-1.0\ENTITY\obj\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\ENTITY\bin\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\ENTITY\bin\Debug\ENTITY.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\ENTITY\obj\Debug\ENTITY.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\BharuKhaliSatellite\ENTITY\obj\Debug\ENTITY.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\ENTITY\bin\Debug\ENTITY.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\ENTITY\bin\Debug\ENTITY.pdb
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\ENTITY\obj\Debug\ENTITY.dll
+E:\My_Project\VS_Project\BharuKhaliSatellite - Copy\ENTITY\obj\Debug\ENTITY.pdb

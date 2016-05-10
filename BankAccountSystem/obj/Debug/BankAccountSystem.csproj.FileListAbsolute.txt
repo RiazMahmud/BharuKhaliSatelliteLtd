@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.exe.config
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.exe
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\bin\Debug\BankAccountSystem.pdb
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.exe
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.pdb
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.Home.resources
+\\psf\home\documents\visual studio 2013\Projects\BankAccountSystem\BankAccountSystem\obj\Debug\BankAccountSystem.Home_Admin.resources
